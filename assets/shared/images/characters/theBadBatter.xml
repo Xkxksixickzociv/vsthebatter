@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theBadBatter.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="2053" height="2300"/>
+	<SubTexture name="idle0001" x="2053" y="0" width="2053" height="2300"/>
+	<SubTexture name="idle0002" x="4106" y="0" width="2053" height="2300"/>
+	<SubTexture name="idle0003" x="0" y="2300" width="2053" height="2300"/>
+	<SubTexture name="idle0004" x="2053" y="2300" width="2053" height="2300"/>
+	<SubTexture name="idle0005" x="4106" y="2300" width="2053" height="2300"/>
+	<SubTexture name="singDOWN0000" x="6159" y="2300" width="2000" height="2205"/>
+	<SubTexture name="singLEFT0000" x="0" y="4600" width="2137" height="2300"/>
+	<SubTexture name="singRIGHT0000" x="2137" y="4600" width="2203" height="2300"/>
+	<SubTexture name="singUP0000" x="4340" y="4600" width="2000" height="2493"/>
+</TextureAtlas>
